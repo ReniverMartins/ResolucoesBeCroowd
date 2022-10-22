@@ -16,6 +16,4 @@ A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a vari
         System.out.printf("Area = "+"%.4f",area);
 
     }
-
-
 }
